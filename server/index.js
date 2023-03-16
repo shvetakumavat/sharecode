@@ -3,8 +3,7 @@ import express from 'express';
 
 import mongoose from 'mongoose';
 import cors from 'cors';
-import path from 'path';
-import { fileURLToPath } from 'url';
+
 import postRoutes from './routes/posts.js';
 import userRouter from "./routes/user.js";
 
@@ -14,17 +13,10 @@ app.use(express.json({ limit: '30mb', extended: true }))
 app.use(express.urlencoded({ limit: '30mb', extended: true }))
 app.use(cors());
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+
 
 app.use('/posts', postRoutes);
 app.use("/user", userRouter);
-app.use(express.static(path.join(__dirname,'./client/build')))
-
-app.get('*',function(req,res){
-  res.sendFile(path.join(__dirname,"./client/build/index.html"));
-})
-
 
 const CONNECTION_URL = 'mongodb+srv://ShwetaKumavat:admin@123@sharecode.gam4jvf.mongodb.net/?retryWrites=true&w=majority';
 const PORT = process.env.PORT|| 5000;
