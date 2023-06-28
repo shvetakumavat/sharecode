@@ -19,7 +19,7 @@ ShareCode is a web application that allows users to share and collaborate on cod
 - Uploading and sharing code snippets
 - Commenting and feedback on code snippets
 - Tagging and categorization of code snippets
-<img src="IMG/1.PNG" alt="Alt Text">
+<img src="[IMG/1.PNG](https://github.com/shvetakumavat/sharecode/blob/master/IMG/1.PNG)" alt="Alt Text">
 
 ## Getting Started
 
