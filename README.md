@@ -35,12 +35,7 @@ To run ShareCode locally, you need to have the following installed on your machi
 
 ### Installation
 
-1. Clone the ShareCode repository by running the following command:
-
-   ```
-   git clone https://github.com/your-username/ShareCode.git
-   ```
-
+1. Clone the ShareCode repository
 2. Navigate to the project directory:
 
    ```
