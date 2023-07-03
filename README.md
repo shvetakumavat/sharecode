@@ -10,8 +10,7 @@ ShareCode is a web application that allows users to share and collaborate on cod
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [A Glimpse into the Project: Screenshots](#A-Glimpse-into-the-Project-:-Screenshots)
 
 ## Features
 
