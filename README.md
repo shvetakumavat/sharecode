@@ -96,16 +96,15 @@ Once you have the application up and running, you can:
 <img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/6.PNG" alt="Alt Text">
 
 
-# Edit Post Page
+
 <img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/7.PNG" alt="Alt Text">
 
 
-
+# Edit Post Page
 <img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/8.PNG" alt="Alt Text">
 
 
 
-<img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/9.PNG" alt="Alt Text">
 
 
 
