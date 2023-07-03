@@ -72,17 +72,19 @@ Once you have the application up and running, you can:
 
   
  ## A Glimpse into the Project: Screenshots
- 
+
+
+ # Start Page
 <img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/1.PNG" alt="Alt Text">
 
-
+# Pagination 
 <img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/2.PNG" alt="Alt Text">
 
-
+# Login Page
 
 <img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/3.PNG" alt="Alt Text">
 
-
+# Create Post Page
 <img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/4.PNG" alt="Alt Text">
 
 
@@ -90,11 +92,11 @@ Once you have the application up and running, you can:
 <img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/5.PNG" alt="Alt Text">
 
 
-
+# Comment on Post Page
 <img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/6.PNG" alt="Alt Text">
 
 
-
+# Edit Post Page
 <img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/7.PNG" alt="Alt Text">
 
 
