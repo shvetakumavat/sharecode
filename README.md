@@ -70,3 +70,40 @@ Once you have the application up and running, you can:
 - Comment on and provide feedback for code snippets.
 - Update your profile information and view your activity history.
 
+  
+ ## A Glimpse into the Project: Screenshots
+ 
+<img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/1.PNG" alt="Alt Text">
+
+
+<img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/2.PNG" alt="Alt Text">
+
+
+
+<img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/3.PNG" alt="Alt Text">
+
+
+<img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/4.PNG" alt="Alt Text">
+
+
+
+<img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/5.PNG" alt="Alt Text">
+
+
+
+<img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/6.PNG" alt="Alt Text">
+
+
+
+<img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/7.PNG" alt="Alt Text">
+
+
+
+<img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/8.PNG" alt="Alt Text">
+
+
+
+<img src="https://github.com/shvetakumavat/sharecode/blob/master/IMG/9.PNG" alt="Alt Text">
+
+
+
