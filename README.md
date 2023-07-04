@@ -1,6 +1,6 @@
 # ShareCode
 
-ShareCode is a web application that allows users to share and collaborate on code snippets. It provides a platform where programmers can showcase their code, seek feedback, and learn from others. This README file provides an overview of the project and instructions for setting it up and running it locally.
+ShareCode is a web application that allows users to share and post their code snippets. It provides a platform where programmers can showcase their code, seek feedback, and learn from others. This README file provides an overview of the project and instructions for setting it up and running it locally.
 
 ## Table of Contents
 
